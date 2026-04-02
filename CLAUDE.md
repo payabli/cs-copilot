@@ -22,8 +22,9 @@ CS receives client request → CS creates ticket → AI generates context and re
 4. **Platform health summary** for the timeframe around the reported issue
 5. **Draft response** for CS to send to the partner
 
-## Stack
-TBD
+## Stack (tentative — may change)
+- Python + Streamlit
+- Claude API for AI
 
 ## Build & Run
 TBD
